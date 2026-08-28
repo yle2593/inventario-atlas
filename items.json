@@ -1,0 +1,1127 @@
+[
+ {
+  "code": "ADM-ELE-AB-001",
+  "desc": "Dispensador de agua caliente y fría Home & Company  WD-200",
+  "serie": "2212003590",
+  "ubicacion": "COMEDOR",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-ELE-AB-002",
+  "desc": "Dispensador de agua caliente y fría TEKNO YLR1-5-V36",
+  "serie": "",
+  "ubicacion": "COMEDOR",
+  "responsable": "",
+  "estado": "Malo",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-ELE-AB-003",
+  "desc": "Horno microondas INNOVA IN-MIC07-EM720CR1-SIL",
+  "serie": "340F15260021C241200219",
+  "ubicacion": "COMEDOR",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-ELE-AB-004",
+  "desc": "Dispensador de agua caliente y fría RCA HWD-07",
+  "serie": "23IHSC502B010937",
+  "ubicacion": "OFICINA TALLER",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-ELE-AB-005",
+  "desc": "Dispensador de agua caliente y fría TCL TY-LWYR91T",
+  "serie": "40701Y002811225230001216",
+  "ubicacion": "RECEPCION",
+  "responsable": "",
+  "estado": "Regular",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-ELE-AB-006",
+  "desc": "Dispensador de agua caliente y fría TCL TY-LWYR91T",
+  "serie": "83369Z24032501P0125",
+  "ubicacion": "OFICINA GERENCIA",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-ELE-AB-007",
+  "desc": "Aire acondicionado MABE 12000BTU  MMT12CDBWCCAXI8 +CTROL REMOTO+COMPRESOR",
+  "serie": "24081574FEA0372 /  B3195E128302N00372",
+  "ubicacion": "OFICINA CONTRALOR / SEGATRUCK",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-ELE-AB-008",
+  "desc": "Aire acondicionado tipo Split HYUNDAI CSC-18OC / 19P2210I 18000BTU +CTROL REMOTO +COMPRESOR",
+  "serie": "2000825905",
+  "ubicacion": "RECEPCION",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-ELE-AB-009",
+  "desc": "Aire acondicionado tipo Split RCA  RCA-12KBTU+CTROL REMOTO+COMPRESOR",
+  "serie": "B3195A130501N01357",
+  "ubicacion": "RECEPCION",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-ELE-AB-010",
+  "desc": "Aire acondicionado split TCL TAC-18CSA/Z2  18000BTU+CTROL+COMPRESOR",
+  "serie": "J230658600F110 / 230658600F",
+  "ubicacion": "OFICINA TALLER",
+  "responsable": "",
+  "estado": "Regular",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-ELE-AB-011",
+  "desc": "Aire acondicionado Split HYUNDAI  CSC-24OC / 20P2002I 24000 BTU/h +CTRL+COMPRESOR",
+  "serie": "2000825907 /G3011332722590710222008M",
+  "ubicacion": "OFICINA GERENCIA",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-ELE-AB-012",
+  "desc": "DISPONIBLE",
+  "serie": "",
+  "ubicacion": "COMEDOR",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": false
+ },
+ {
+  "code": "ADM-ELE-AB-013",
+  "desc": "Aire acondicionado Split STARSONIC CS32-12H3A 12000 BTU/h + CTROL+COMPRESOR",
+  "serie": "JAA0GSR3104745000075 / SO2025020027",
+  "ubicacion": "OFICINA RRHH",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-ELE-AB-014",
+  "desc": "Televisor LED 43\" RCA LED43RCA683GT +CTROL REMOTO",
+  "serie": "7RT0046 / 7861191404007",
+  "ubicacion": "OFICINA CONTRALOR / SEGATRUCK",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-ELE-AB-015",
+  "desc": "Televisor LED 50\" SAMSUNG UN50AU7000 +  CTROL REMOTO",
+  "serie": "0FEJ39EX101041X",
+  "ubicacion": "OFICINA GERENCIA",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-ELE-AB-016",
+  "desc": "KIT DE VIDEO PORTERO DSKB2411- IM + DS-KH2220",
+  "serie": "",
+  "ubicacion": "INGRESO",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-ELE-AB-017",
+  "desc": "Televisor SMART TV 32\" ZITRO LA32ZEC",
+  "serie": "32GF1SISB-235HV017-01515C /7862136192416",
+  "ubicacion": "OFICINA GERENCIA",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-ELE-AB-018",
+  "desc": "Frigobar FRIGIDAIRE",
+  "serie": "A2107407900000320",
+  "ubicacion": "OFICINA GERENCIA",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-ELE-AB-019",
+  "desc": "Datafast  Ingenico Move/2500",
+  "serie": "230606903001198937226987",
+  "ubicacion": "GERENCIA COMERCIAL",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-EQP-AB-001",
+  "desc": "Computadora Portatil DELL Inspiron 14+cargador +mouse",
+  "serie": "63334P2",
+  "ubicacion": "OFICINA  TALLER",
+  "responsable": "JOSE ZUÑIGA",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-EQP-AB-002",
+  "desc": "Computadora Portatil LENOVO  V14  G2 ITL  14 INTEL CORE I5 1135G7 8 GB DDR4 INTEL UHD GRAPHICS, 512GB SSD M.2 2242 PCIE",
+  "serie": "PF4A0NF7 / 82KA013NLM",
+  "ubicacion": "RRHH",
+  "responsable": "No Asignado",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-EQP-AB-003",
+  "desc": "Computadora portatil Lenovo V15 G4 AMN+CARGADOR+MOUSE",
+  "serie": "PF52R6C0 / 82YU00XALM",
+  "ubicacion": "OFICINA  TALLER",
+  "responsable": "Fernando  Tandazo",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-EQP-AB-004",
+  "desc": "Computadora portatil Lenovo V14 G2 ITL +CARGADOR+MOUSE",
+  "serie": "PF4A1WZC / 82KA013NLM",
+  "ubicacion": "OFICINA  TALLER",
+  "responsable": "Fabian Chancay",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-EQP-AB-005",
+  "desc": "Computadora portatil HP 15-FC0004LA R37320U/8GB RAM/512GB SSD /PAN 15.6 FHD/WIN11/BLUE+CARGADOR+MOUSE",
+  "serie": "S/N BRM40490Y6",
+  "ubicacion": "OFICINA RRHH",
+  "responsable": "Nicole Carpio",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-EQP-AB-006",
+  "desc": "Computadora portatil Lenovo V15 G4 AMN+CARGADOR+MOUSE",
+  "serie": "PF52P38B / 82YU00XALM",
+  "ubicacion": "OFICINA SEGATRUCK",
+  "responsable": "Fabian Maldonado",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-EQP-AB-007",
+  "desc": "Computadora portatil  LENOVO V15 G4-AMN DISPLAY 15.6 FHD R3-7320U RAM 8GB SSD 256GB RJ45 ARTIC GREY",
+  "serie": "PF52R6WV / 82YU00X4LM",
+  "ubicacion": "RRHH",
+  "responsable": "No Asignado",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-EQP-AB-008",
+  "desc": "Computadora Portatil HP 14-DQ5009LA CORE I3 1215U - 256 GB SSD 8GB RAM - W11 HOME 14 PULGADAS-DQ5009LA+cargador + Mouse",
+  "serie": "S/N  5CD4015CTY",
+  "ubicacion": "OFICINA SEGATRUCK",
+  "responsable": "Karen Intriago",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-EQP-AB-009",
+  "desc": "Computadora portatil Lenovo IdeaPad Gaming 3 15ARH7+cargador + Mouse",
+  "serie": "MP2D2K3N / 82SB00H5LM",
+  "ubicacion": "MARKETING",
+  "responsable": "Briggitte Lara",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-EQP-AB-010",
+  "desc": "Disco duro externo portátil SEAGATE",
+  "serie": "SRD0NF1/ 2U2AP4-500",
+  "ubicacion": "MARKETING",
+  "responsable": "Briggitte Lara",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-EQP-AB-011",
+  "desc": "Computadora portatil Lenovo V15-ADA+cargador+Mouse",
+  "serie": "PF3WTBDB / 82C700M7LM",
+  "ubicacion": "VENTAS",
+  "responsable": "Jose Ituralde",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-EQP-AB-012",
+  "desc": "Computadora portatil Lenovo V15 G4 AMN+CARGADOR+MOUSE",
+  "serie": "PF52R6D0 / 82YU00XALM",
+  "ubicacion": "ADM SEGATRUCK",
+  "responsable": "Susana Vera",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-EQP-AB-013",
+  "desc": "Monitor de computadora Quasad QM-S20",
+  "serie": "CBGG077201650",
+  "ubicacion": "ADMINISTRACION",
+  "responsable": "",
+  "estado": "Regular",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-EQP-AB-014",
+  "desc": "Disco duro externo portátil Western Digital",
+  "serie": "WX62A849WZV0 /  WDBYVG0010BBK-0A",
+  "ubicacion": "OFICINA TALLER",
+  "responsable": "Fabian Chancay",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-EQP-AB-015",
+  "desc": "Computadora portatil Lenovo Ideapad 330-15IKB (Modelo 81DE)+ cargador",
+  "serie": "LNVNB161216",
+  "ubicacion": "RECEPCION",
+  "responsable": "",
+  "estado": "Regular",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-EQP-AB-016",
+  "desc": "Lenovo IdeaCentre AIO 330-20IGM",
+  "serie": "YJ00GUA5",
+  "ubicacion": "ADMINISTRACION",
+  "responsable": "Jessica Loor",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-EQP-AB-017",
+  "desc": "Impresora multifuncional EPSON L3250 / C634H",
+  "serie": "XAGZ012463",
+  "ubicacion": "OFICINA CONTRALOR / SEGATRUCK",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-EQP-AB-018",
+  "desc": "Impresora  Epson EcoTank L4160",
+  "serie": "X4DU131328",
+  "ubicacion": "ADMINISTRACION",
+  "responsable": "",
+  "estado": "Regular",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-EQP-AB-019",
+  "desc": "Mini PC LenovoThinkCentre M900",
+  "serie": "MJ054G5A / 10FLS5AB00",
+  "ubicacion": "GERENCIA GENERAL",
+  "responsable": "Geovanny Segarra",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-EQP-AB-020",
+  "desc": "Impresora Epson EcoTank L1250",
+  "serie": "XBF0346083",
+  "ubicacion": "OFICINA TALLER",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-EQP-AB-021",
+  "desc": "TABLET SAMSUNG GALAXY TAB S6 LITE OC 4GB 64GB 10.4IInch 5LTE 2CAM Covertor And-14 Gris Oxford- TABSAMSMP625NZA",
+  "serie": "R52X706P0RH / IMEI 354348130631091",
+  "ubicacion": "OFICINA  TALLER",
+  "responsable": "Fabian Chancay",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-EQP-AB-022",
+  "desc": "Disco Duro Externo ADATA DashDrive Durable HD330",
+  "serie": "1P1920938299",
+  "ubicacion": "RRHH",
+  "responsable": "Nicole Carpio",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-001",
+  "desc": "Archivador vertical de madera de 4 gavetas blanco",
+  "serie": "",
+  "ubicacion": "OFICINA TALLER",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-002",
+  "desc": "Archivador vertical de madera de 4 gavetas blanco",
+  "serie": "",
+  "ubicacion": "OFICINA TALLER",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-003",
+  "desc": "Escritorio ejecutivo Tipo L B/N",
+  "serie": "",
+  "ubicacion": "OFICINA TALLER",
+  "responsable": "JOSE ZUÑIGA",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-004",
+  "desc": "Escritorio Basico Operativo  Blanco",
+  "serie": "",
+  "ubicacion": "OFICINA TALLER",
+  "responsable": "Katherine Carrasco",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-005",
+  "desc": "Escritorio Basico Operativo  Blanco",
+  "serie": "",
+  "ubicacion": "OFICINA TALLER",
+  "responsable": "Fernando  Tandazo",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-006",
+  "desc": "Escritorio ejecutivo Tipo L B/N",
+  "serie": "",
+  "ubicacion": "OFICINA TALLER",
+  "responsable": "Fabian Chancay",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-007",
+  "desc": "Juego de mesas de centro nido de recepción",
+  "serie": "",
+  "ubicacion": "OFICINA TALLER",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-008",
+  "desc": "Silla gris acolchonada  1",
+  "serie": "",
+  "ubicacion": "RECEPCION",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-009",
+  "desc": "Silla gris acolchonada  2",
+  "serie": "",
+  "ubicacion": "RECEPCION",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-010",
+  "desc": "Silla giratoria ergonomica  negra 3",
+  "serie": "",
+  "ubicacion": "RECEPCION",
+  "responsable": "Jessica Loor",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-011",
+  "desc": "Silla giratoria ejecutiva  negra 4",
+  "serie": "",
+  "ubicacion": "RECEPCION",
+  "responsable": "Briggitte Lara",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-012",
+  "desc": "Silla giratoria ergonomica  negra 5",
+  "serie": "",
+  "ubicacion": "RECEPCION",
+  "responsable": "Jose Ituralde",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-013",
+  "desc": "Silla giratoria ergonomica  negra 6",
+  "serie": "",
+  "ubicacion": "RECEPCION",
+  "responsable": "Susana Vera",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-014",
+  "desc": "Silla de oficina tipo Eames Aluminio 7",
+  "serie": "",
+  "ubicacion": "GERENCIA GENERAL",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-015",
+  "desc": "Silla de oficina tipo Eames Aluminio Giratoria 8",
+  "serie": "",
+  "ubicacion": "GERENCIA GENERAL",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-016",
+  "desc": "Silla de oficina tipo Eames Aluminio Giratoria 9",
+  "serie": "",
+  "ubicacion": "GERENCIA GENERAL",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-017",
+  "desc": "Silla de oficina tipo Eames Aluminio Giratoria 10",
+  "serie": "",
+  "ubicacion": "GERENCIA GENERAL",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-018",
+  "desc": "Silla de oficina tipo Eames Aluminio Giratoria 11",
+  "serie": "",
+  "ubicacion": "GERENCIA GENERAL",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-019",
+  "desc": "Sillon  gerencial  negro 12",
+  "serie": "",
+  "ubicacion": "GERENCIA GENERAL",
+  "responsable": "Geovanny Segarra",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-020",
+  "desc": "Silla de oficina tipo Eames Aluminio 13",
+  "serie": "",
+  "ubicacion": "GERENCIA GENERAL",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-021",
+  "desc": "Silla de oficina tipo Eames Aluminio 14",
+  "serie": "",
+  "ubicacion": "GERENCIA GENERAL",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-022",
+  "desc": "Silla giratoria ergonomica  negra 15",
+  "serie": "",
+  "ubicacion": "OFICINA CONTRALOR / SEGATRUCK",
+  "responsable": "Yleana Villacis",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-023",
+  "desc": "Silla giratoria ergonomica  negra 16",
+  "serie": "",
+  "ubicacion": "OFICINA CONTRALOR / SEGATRUCK",
+  "responsable": "Fabian Maldonado",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-024",
+  "desc": "Silla de oficina tipo Eames Aluminio 17",
+  "serie": "",
+  "ubicacion": "OFICINA CONTRALOR / SEGATRUCK",
+  "responsable": "James Astudillo",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-025",
+  "desc": "Silla giratoria ergonomica  negra 18",
+  "serie": "",
+  "ubicacion": "OFICINA CONTRALOR / SEGATRUCK",
+  "responsable": "Karen Intriago",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-026",
+  "desc": "Silla eames negra C/ madera 19",
+  "serie": "",
+  "ubicacion": "OFICINA CONTRALOR / SEGATRUCK",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-027",
+  "desc": "Silla de oficina tipo Eames Aluminio Giratoria 20",
+  "serie": "",
+  "ubicacion": "RRHH",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-028",
+  "desc": "Silla de oficina tipo Eames Aluminio Giratoria 21",
+  "serie": "",
+  "ubicacion": "RRHH",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-029",
+  "desc": "Silla de oficina tipo Eames Aluminio 22",
+  "serie": "",
+  "ubicacion": "RRHH",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-030",
+  "desc": "Silla de oficina tipo Eames Aluminio 23",
+  "serie": "",
+  "ubicacion": "RRHH",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-031",
+  "desc": "Silla de oficina tipo Eames Aluminio Giratoria 24",
+  "serie": "",
+  "ubicacion": "RRHH",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-032",
+  "desc": "Silla eames negra C/ madera 25",
+  "serie": "",
+  "ubicacion": "BODEGA",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-033",
+  "desc": "Sillon ergonomico  negro giratorio 26",
+  "serie": "",
+  "ubicacion": "OFICINA TALLER",
+  "responsable": "JOSE ZUÑIGA",
+  "estado": "Malo",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-034",
+  "desc": "Silla de oficina tipo Eames Aluminio Giratoria 27",
+  "serie": "",
+  "ubicacion": "OFICINA TALLER",
+  "responsable": "Katherine Carrasco",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-035",
+  "desc": "Silla de oficina tipo Eames Aluminio Giratoria 28",
+  "serie": "",
+  "ubicacion": "OFICINA TALLER",
+  "responsable": "Fernando  Tandazo",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-036",
+  "desc": "Silla de oficina tipo Eames Aluminio Giratoria 29",
+  "serie": "",
+  "ubicacion": "OFICINA TALLER",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-037",
+  "desc": "Silla ejecutiva cromada y acolchonada 30",
+  "serie": "",
+  "ubicacion": "OFICINA TALLER",
+  "responsable": "Fabian Chancay",
+  "estado": "Regular",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-038",
+  "desc": "Silla ejecutiva cromada y acolchonada 31",
+  "serie": "",
+  "ubicacion": "OFICINA TALLER",
+  "responsable": "",
+  "estado": "Malo",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-039",
+  "desc": "Silla eames negra C/ madera 32",
+  "serie": "",
+  "ubicacion": "PLANTA",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-040",
+  "desc": "Silla de oficina tipo Eames Aluminio Giratoria 33",
+  "serie": "",
+  "ubicacion": "GERENCIA COMERCIAL",
+  "responsable": "Karem Lok",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-041",
+  "desc": "Silla eames negra C/ madera 34",
+  "serie": "",
+  "ubicacion": "GERENCIA COMERCIAL",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-042",
+  "desc": "Silla eames negra C/ madera 35",
+  "serie": "",
+  "ubicacion": "GERENCIA COMERCIAL",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-043",
+  "desc": "Escritorio ejecutivo Tipo L B/N",
+  "serie": "",
+  "ubicacion": "RECEPCION",
+  "responsable": "Briggitte Lara",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-044",
+  "desc": "Mostrador de recepción en L",
+  "serie": "",
+  "ubicacion": "RECEPCION",
+  "responsable": "Jessica Loor",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-045",
+  "desc": "Sofá de dos plazas",
+  "serie": "",
+  "ubicacion": "RECEPCION",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-046",
+  "desc": "Escritorio Basico Operativo  B/N",
+  "serie": "",
+  "ubicacion": "RECEPCION",
+  "responsable": "Jose Ituralde",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-047",
+  "desc": "Escritorio ejecutivo Tipo L B/N",
+  "serie": "",
+  "ubicacion": "RECEPCION",
+  "responsable": "Susana Vera",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-048",
+  "desc": "Mesa de reuniones rectangular",
+  "serie": "",
+  "ubicacion": "GERENCIA GENERAL",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-049",
+  "desc": "Panel de Madera",
+  "serie": "",
+  "ubicacion": "GERENCIA GENERAL",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-050",
+  "desc": "Estantería modular empotrada",
+  "serie": "",
+  "ubicacion": "GERENCIA GENERAL",
+  "responsable": "Geovanny Segarra",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-051",
+  "desc": "Mueble bar bajo de oficina",
+  "serie": "",
+  "ubicacion": "GERENCIA GENERAL",
+  "responsable": "Geovanny Segarra",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-052",
+  "desc": "Escritorio operativo con pata en X y cajonera",
+  "serie": "",
+  "ubicacion": "GERENCIA GENERAL",
+  "responsable": "Geovanny Segarra",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-053",
+  "desc": "Escritorio ejecutivo en L con credenza integrada",
+  "serie": "",
+  "ubicacion": "GERENCIA COMERCIAL",
+  "responsable": "Karem Lok",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-054",
+  "desc": "Módulo aéreo de oficina",
+  "serie": "",
+  "ubicacion": "GERENCIA COMERCIAL",
+  "responsable": "Karem Lok",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-055",
+  "desc": "Mueble archivador de oficina de 4 puertas",
+  "serie": "",
+  "ubicacion": "RECEPCION",
+  "responsable": "Jessica Loor",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-056",
+  "desc": "Módulo exhibidor de puerta blindada",
+  "serie": "",
+  "ubicacion": "RECEPCION",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-057",
+  "desc": "Exhibidor vertical intercomunicador B&G",
+  "serie": "",
+  "ubicacion": "RECEPCION",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-058",
+  "desc": "Exhibidor de pared para vidrios blindados",
+  "serie": "",
+  "ubicacion": "RECEPCION",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-059",
+  "desc": "Exhibidor de pared para vidrios blindados",
+  "serie": "",
+  "ubicacion": "RECEPCION",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-060",
+  "desc": "Exhibidor de pared para vidrios blindados",
+  "serie": "",
+  "ubicacion": "RECEPCION",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-061",
+  "desc": "Estructura de exhibición para placas de acero",
+  "serie": "",
+  "ubicacion": "RECEPCION",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-062",
+  "desc": "Exhibidor de llanta con sistema Run-Flat",
+  "serie": "",
+  "ubicacion": "RECEPCION",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-063",
+  "desc": "Mesa exhibidora de amortiguador reforzado",
+  "serie": "",
+  "ubicacion": "RECEPCION",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-064",
+  "desc": "Archivador vertical de 4 gavetas blanco C/ Llave",
+  "serie": "",
+  "ubicacion": "RECEPCION",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-065",
+  "desc": "Mueble auxiliar 2 puertas",
+  "serie": "",
+  "ubicacion": "OFICINA CONTRALOR / SEGATRUCK",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-066",
+  "desc": "Escritorio recto con repisas inferiores Blanco",
+  "serie": "",
+  "ubicacion": "OFICINA CONTRALOR / SEGATRUCK",
+  "responsable": "Karen Intriago",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-067",
+  "desc": "Escritorio Basico Operativo  B/N",
+  "serie": "",
+  "ubicacion": "OFICINA CONTRALOR / SEGATRUCK",
+  "responsable": "Karen Intriago",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-068",
+  "desc": "Escritorio ejecutivo con credenza en L",
+  "serie": "",
+  "ubicacion": "OFICINA CONTRALOR / SEGATRUCK",
+  "responsable": "Yleana Villacis",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-069",
+  "desc": "Escritorio Basico Operativo  B/N",
+  "serie": "",
+  "ubicacion": "OFICINA CONTRALOR / SEGATRUCK",
+  "responsable": "James Astudillo",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-070",
+  "desc": "Escritorio ejecutivo con credenza en L",
+  "serie": "",
+  "ubicacion": "RRHH",
+  "responsable": "Nicole Carpio",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-071",
+  "desc": "Mesa de trabajo operativa rectangular",
+  "serie": "",
+  "ubicacion": "RRHH",
+  "responsable": "Nicole Carpio",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-072",
+  "desc": "Módulo de archivo flotante horizontal blanco",
+  "serie": "",
+  "ubicacion": "RRHH",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-073",
+  "desc": "Módulo de archivo flotante horizontal blanco",
+  "serie": "",
+  "ubicacion": "RRHH",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-074",
+  "desc": "Módulo de archivo flotante horizontal blanco",
+  "serie": "",
+  "ubicacion": "RECEPCION",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-075",
+  "desc": "Maceta cónica alta de interior con planta",
+  "serie": "",
+  "ubicacion": "OFICINA SEGATRUCK",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-076",
+  "desc": "Maceta cónica alta de interior con planta",
+  "serie": "",
+  "ubicacion": "OFICINA SEGATRUCK",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-077",
+  "desc": "Exhibidor vertical intercomunicador B&G",
+  "serie": "",
+  "ubicacion": "RRHH",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-078",
+  "desc": "Exhibidor publicitario de piso con torso",
+  "serie": "",
+  "ubicacion": "RRHH",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-079",
+  "desc": "Maceta cónica texturizada gris",
+  "serie": "",
+  "ubicacion": "RECEPCION",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-080",
+  "desc": "Maceta cónica texturizada gris",
+  "serie": "",
+  "ubicacion": "RECEPCION",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-EQP-AB-023",
+  "desc": "SONY ALPHA 6100 KIT LENTE  16-50 MIRRORLESSS +TRIPODE",
+  "serie": "8271581",
+  "ubicacion": "MARKETING",
+  "responsable": "No Asignado",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-EQP-AB-024",
+  "desc": "Iphone 13 Pro 256GB GRAPHITO open Box+audifonos+estuche+2cables de poder +2 adaptadores de carga",
+  "serie": "356696725100783 / 356696725238955",
+  "ubicacion": "MARKETING",
+  "responsable": "No Asignado",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-EQP-AB-025",
+  "desc": "Kit de Bandera Publicitaria Institucional.",
+  "serie": "",
+  "ubicacion": "MARKETING",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-EQP-AB-026",
+  "desc": "Kit de Bandera Publicitaria Institucional.",
+  "serie": "",
+  "ubicacion": "MARKETING",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ }
+]
