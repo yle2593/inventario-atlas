@@ -1123,5 +1123,878 @@
   "responsable": "",
   "estado": "Bueno",
   "has_photo": true
+ },
+ {
+  "code": "ADM-MOB-AB-081",
+  "desc": "Exhibidor de Vidrio Bindado",
+  "serie": "",
+  "ubicacion": "PLANTA",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-001",
+  "desc": "Estanteria de Mantenimiento de Bateria",
+  "serie": "",
+  "ubicacion": "Oficina Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-002",
+  "desc": "Panel exhibidor de amortiguadores y discos",
+  "serie": "",
+  "ubicacion": "Oficina Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-003",
+  "desc": "Pizarra Acrilica Blanca  0.80x1.20",
+  "serie": "",
+  "ubicacion": "Oficina Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-004",
+  "desc": "Pizarra Acrilica Blanca  1.21x2.35",
+  "serie": "",
+  "ubicacion": "Oficina Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-005",
+  "desc": "Mesa de trabajo Movil Acolchada",
+  "serie": "",
+  "ubicacion": "Oficina Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-006",
+  "desc": "Estantería organizadora multiusos",
+  "serie": "",
+  "ubicacion": "Oficina Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-007",
+  "desc": "Mesa de almacenamiento móvil acolchada",
+  "serie": "",
+  "ubicacion": "Oficina Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ALM-MOB-AB-001",
+  "desc": "Carrito porta Vidrios movil",
+  "serie": "",
+  "ubicacion": "Oficina Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-008",
+  "desc": "Mesa de trabajo metalica",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ALM-MOB-AB-002",
+  "desc": "Rack Divisor de  Kevlar",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-009",
+  "desc": "Rack Organizador de Piezas",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-010",
+  "desc": "Rack Organizador de Piezas",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-011",
+  "desc": "Escalera Recta de Aluminio",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-012",
+  "desc": "Dispensador vertical de film stretch",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-013",
+  "desc": "Gabinete movil de herramientas",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-014",
+  "desc": "Mesa de trabajo metalica",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-015",
+  "desc": "Gabinete llavero de seguridad",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-HER-AB-001",
+  "desc": "Prensa de banco",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MAQ-AB-001",
+  "desc": "Maquina de soldar Lincoln Electric Powertec 271C",
+  "serie": "P1220605057",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-016",
+  "desc": "Mesa movil acolchada",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-017",
+  "desc": "Mesa de soporte movil",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-HER-AB-002",
+  "desc": "Probador de baterías con impresora TOPDON BT300P",
+  "serie": "130056W5 / D102CT",
+  "ubicacion": "Oficina Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MAQ-AB-002",
+  "desc": "Cargador y arrancador de baterías Schumacher SC1353",
+  "serie": "940261353 11 MS 2333 00068",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-018",
+  "desc": "Rack Organizador de Piezas",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-019",
+  "desc": "Rack Organizador de Piezas GRIS",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-020",
+  "desc": "Soporte de pedestal ajustable",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-021",
+  "desc": "Mampara divisoria de taller",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-HER-AB-003",
+  "desc": "Reflector LED portatil de 100W",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-022",
+  "desc": "Mesa de trabajo metalica",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-HER-AB-004",
+  "desc": "Gato hidraulico de patin",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-023",
+  "desc": "Carrito organizador movil",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MAQ-AB-003",
+  "desc": "Hidrolavadora a gasolina Ingco 3100 PSI",
+  "serie": "GHPW2003",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-024",
+  "desc": "Rack Organizador de Piezas",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MAQ-AB-004",
+  "desc": "Compresor de aire Campbell Hausfeld VT639501AJ",
+  "serie": "HS45688",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MAQ-AB-005",
+  "desc": "Compresor de aire Campbell Hausfeld TF51082XVA",
+  "serie": "SN130310110241198",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-025",
+  "desc": "Mesa de corte y trabajo",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MAQ-AB-006",
+  "desc": "Horno industrial de curado",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MAQ-AB-007",
+  "desc": "Horno industrial de curado +Tablero de control eLectrico",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-026",
+  "desc": "Mesa de trabajo metalica Corte de Acero",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-027",
+  "desc": "Mesa de oxicorte y plasma",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-028",
+  "desc": "Mesa de trabajo metalica Corte de Acero",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MAQ-AB-008",
+  "desc": "Prensa hidraulica industrial Azul Marco H",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MAQ-AB-009",
+  "desc": "Spotter de golpes por puntos Muth",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Regular",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MAQ-AB-010",
+  "desc": "Prensa hidraulica industrial Verde+ Variodor /Frecuencia",
+  "serie": "JV/M103521806",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MAQ-AB-011",
+  "desc": "Taladro de pedestal ITALCO",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MAQ-AB-012",
+  "desc": "Prensa Hidraulica Manual Tipo  H",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Regular",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-029",
+  "desc": "Rack de almacenamiento",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-HER-AB-005",
+  "desc": "Prensa de Banco Gris",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-030",
+  "desc": "Mesa de trabajo metalica",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-031",
+  "desc": "Rack Organizador  Gris",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-032",
+  "desc": "Soporte de pedestal ajustable",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-033",
+  "desc": "Mampara divisoria de taller S/ tablero",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-034",
+  "desc": "Caballete de soporte",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-035",
+  "desc": "Mesa de trabajo metalica",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-HER-AB-006",
+  "desc": "Embanque para vehiculo",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-HER-AB-007",
+  "desc": "Embanque para vehiculo",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-HER-AB-008",
+  "desc": "Gato hidráulico de botella",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-HER-AB-009",
+  "desc": "Gato hidráulico de carretilla",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-036",
+  "desc": "Taburete metalico auxiliar",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-037",
+  "desc": "Mampara divisoria móvil con base en T",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-038",
+  "desc": "Mampara divisoria móvil con base en T",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-039",
+  "desc": "Mampara divisoria móvil con base de trípode",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-040",
+  "desc": "Escalera de plataforma para taller",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-041",
+  "desc": "Mampara divisoria móvil con base en T",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-042",
+  "desc": "Estantería modular gris",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-HER-AB-010",
+  "desc": "Reflector LED de pedestal",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-043",
+  "desc": "Gabinete movil de herramientas doble cajon",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-044",
+  "desc": "Rack de almacenamiento Naranja/ azul",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-045",
+  "desc": "Rack de almacenamiento Naranja/ azul",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-046",
+  "desc": "Rack de almacenamiento Naranja/ azul",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-047",
+  "desc": "Rack de almacenamiento Naranja/ azul",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-048",
+  "desc": "Soporte de pedestal ajustable",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-049",
+  "desc": "Gabinete movil de herramientas 2 puertas",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-050",
+  "desc": "Mesa de trabajo móvil de dos niveles",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-051",
+  "desc": "Mampara divisoria móvil con base en T",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-052",
+  "desc": "Mampara divisoria móvil con base en T",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-053",
+  "desc": "Banquillo estructural de soporte",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-HER-AB-011",
+  "desc": "Nivel de burbuja Stanley",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-054",
+  "desc": "Escalera de banco metalica",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MAQ-AB-013",
+  "desc": "Aspiradora de sólidos y líquidos Stanley 1200W 30L",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Malo",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MAQ-AB-014",
+  "desc": "Aspiradora de sólidos y líquidos Stanley 1200W 30L",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-055",
+  "desc": "Dispensador vertical de film stretch",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-056",
+  "desc": "Mesa de trabajo metalica",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-MOB-AB-057",
+  "desc": "Mesa de trabajo Movil",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-ELE-AB-020",
+  "desc": "Ventilador de pedestal pequeño",
+  "serie": "",
+  "ubicacion": "Oficina Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-HER-AB-012",
+  "desc": "Lámpara de inspección de pintura MaxShine",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-SEG-AB-001",
+  "desc": "Extintor de PQS 10lb Admiral",
+  "serie": "",
+  "ubicacion": "RECEPCION",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-SEG-AB-002",
+  "desc": "Extintor de CO2 5lb Vulcan",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-SEG-AB-003",
+  "desc": "Extintor de CO2 5lb",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-SEG-AB-004",
+  "desc": "Extintor de PQS 10lb Global Security",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-SEG-AB-005",
+  "desc": "Extintor de PQS 10lb Global Security",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-SEG-AB-006",
+  "desc": "Extintor de CO2 5lb Vulcan",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-SEG-AB-007",
+  "desc": "Extintor de PQS 10lb Global Security",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-SEG-AB-008",
+  "desc": "Extintor de PQS 10lb",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "ADM-SEG-AB-009",
+  "desc": "Extintor de CO2 5lb Vextinfa",
+  "serie": "",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "",
+  "estado": "Bueno",
+  "has_photo": true
+ },
+ {
+  "code": "TPR-HER-AB-013",
+  "desc": "Escaner de diagnóstico automotriz LAUNCH X-431",
+  "serie": "968774015680V0",
+  "ubicacion": "Taller de Produccion",
+  "responsable": "Fabian Chancay",
+  "estado": "Bueno",
+  "has_photo": true
  }
 ]
